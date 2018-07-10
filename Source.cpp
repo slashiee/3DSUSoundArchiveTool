@@ -10,13 +10,13 @@
 #include <vector>
 #include <direct.h>
 #include <math.h>
-#include <sar.h>
-#include <STRGSection.h>
-#include <WAV.h>
-#include <WAR.h>
-#include <BNK.h>
-#include <GRP.h>
-#include <INFOSection.h>
+#include "sar.h"
+#include "STRGSection.h"
+#include "WAV.h"
+#include "WAR.h"
+#include "BNK.h"
+#include "GRP.h"
+#include "INFOSection.h"
 
 using namespace std;
 
